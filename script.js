@@ -5,7 +5,6 @@ const actions = document.querySelector(".actions");
 
 const sweetMessages = [
   "Yay! I can't wait for our date 💖",
-  "Best. Valentine. Ever! 💘",
   "You just made my whole day! 🥰",
   "Forever my favorite person 💕",
 ];
@@ -13,8 +12,8 @@ const sweetMessages = [
 const playfulNoMessages = [
   "Nope! Catch me if you can 😜",
   "No button escaped!",
-  "Try again, cutie!",
-  "Too slow, love!",
+  "Try again, baby!",
+  "Too slow, baby!",
 ];
 
 const noImg = [ "noimg0", "noimg1", "noimg2", "noimg3" ];

@@ -49,14 +49,14 @@ h1 {
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 16px;
   margin-bottom: 16px;
-  height: 18em;
+  height: auto;
   flex-direction: row;
   align-items: center;
   justify-content: center;
 }
 
 .gifs img {
-  width: 60%;
+  width: 40%;
   border-radius: 18px;
   object-fit: cover;
   border: 2px solid #ffd3e8;
@@ -116,3 +116,12 @@ h1 {
     min-height: 120px;
   }
 }
+#defaultimg {
+  width: 220px;
+  max-width: 80%;
+  height: auto;
+  border-radius: 18px;
+  display: block;
+  margin: 20px auto;
+}
+
