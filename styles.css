@@ -116,3 +116,12 @@ h1 {
     min-height: 120px;
   }
 }
+/* Make personal photo smaller */
+#defaultimg {
+  width: 220px;
+  max-width: 80%;
+  height: auto;
+  border-radius: 18px;
+  margin: 0 auto;
+}
+
